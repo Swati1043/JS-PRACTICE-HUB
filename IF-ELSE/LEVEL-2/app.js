@@ -202,17 +202,17 @@
 // 10. Take a month number (1–12) and print the number of days in that month (ignore leap years).
 // -----------------------------------------------------------------------------------------------
 
-let m = 13;
+// let m = 2;
 
-if(m == 1 || m == 3 || m == 5 || m == 7 || m == 8 || m == 10 || m == 12){
-    console.log(`31 days in a given month number : ${m}`)
-}
-else if(m == 4 || m == 6 || m == 9 || m == 11){
-    console.log(`30 days in a given month number : ${m}`)
-}
-else if(m == 2){
-    console.log(`28 days in a given month number : ${m}`)
-}
-else{
-    console.log(`Invalid Month Number`)
-}
+// if(m == 1 || m == 3 || m == 5 || m == 7 || m == 8 || m == 10 || m == 12){
+//     console.log(`31 days in a given month number : ${m}`)
+// }
+// else if(m == 4 || m == 6 || m == 9 || m == 11){
+//     console.log(`30 days in a given month number : ${m}`)
+// }
+// else if(m == 2){
+//     console.log(`28 days in a given month number : ${m}`)
+// }
+// else{
+//     console.log(`Invalid Month Number`)
+// }
